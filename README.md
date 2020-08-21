@@ -20,6 +20,9 @@ If we are really looking at the profitability of opening a bike share program in
 
 ### Sources:
 https://www.census.gov/quickfacts/desmoinescityiowa
+
 https://www.census.gov/quickfacts/newyorkcitynewyork
+
 https://www1.nyc.gov/assets/planning/download/pdf/planning-level/nyc-population/new-population/current-populatiion-estimattes.pdf
+
 https://nycfuture.org/research/destination-new-york
